@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="146.79999mm"
+   height="31.591389mm"
+   viewBox="0 0 520.15744 111.93799"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="nestlogo.svg"
+   inkscape:export-filename="/Users/pincy/Documents/Jobs/WPI/nest_logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title4500">NEST Lab Logo</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6610356"
+     inkscape:cx="238.10447"
+     inkscape:cy="55.968996"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NEST Lab Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-69.350454,-248.53311)">
+    <path
+       style="fill:#0071a9;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 69.350454,248.53311 0,26.97047 0,57.99705 0,26.97047 30.967366,0 429.17138,0 28.97141,0 0.0799,0 30.96736,0 0,-26.97047 0,-57.99705 c 0,-14.94164 -13.81145,-26.97047 -30.96736,-26.97047 l -29.05125,0 -429.17138,0 -30.967366,0 z"
+       id="background"
+       inkscape:connector-curvature="0" />
+    <g
+       id="pictext"
+       transform="translate(-1.4853521e-7,-0.00595534)">
+      <g
+         transform="matrix(1,0,0,0.9008003,5.1461148,34.561482)"
+         id="nesttext">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:80px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="177.14285"
+           y="320.93365"
+           id="nestlab"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="177.14285"
+             y="320.93365"
+             id="tspan3340"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;line-height:125%;font-family:'Hiragino Maru Gothic Pro';-inkscape-font-specification:'Hiragino Maru Gothic Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">NEST Lab</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:51.08353043px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="182.49751"
+           y="341.89832"
+           id="nestfull"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3346"
+             x="182.49751"
+             y="341.89832"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.45367241px;line-height:125%;font-family:'Hiragino Maru Gothic Pro';-inkscape-font-specification:'Hiragino Maru Gothic Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Novel Engineering for Swarm Technologies </tspan></text>
+      </g>
+      <g
+         transform="translate(-10.038775,-3.7419891)"
+         id="g4438">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="elem1"
+           width="20"
+           height="20"
+           x="95.131882"
+           y="270.12994"
+           inkscape:tile-cx="134.03089"
+           inkscape:tile-cy="150.30014"
+           inkscape:tile-w="20"
+           inkscape:tile-h="20"
+           inkscape:tile-x0="124.03089"
+           inkscape:tile-y0="140.30014" />
+        <rect
+           inkscape:tile-y0="140.30014"
+           inkscape:tile-x0="124.03089"
+           inkscape:tile-h="20"
+           inkscape:tile-w="20"
+           inkscape:tile-cy="150.30014"
+           inkscape:tile-cx="134.03089"
+           y="270.12994"
+           x="125.132"
+           height="20"
+           width="20"
+           id="elem2"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="elem3"
+           width="20"
+           height="20"
+           x="-17.622768"
+           y="315.0896"
+           inkscape:tile-cx="134.03089"
+           inkscape:tile-cy="150.30014"
+           inkscape:tile-w="20"
+           inkscape:tile-h="20"
+           inkscape:tile-x0="124.03089"
+           inkscape:tile-y0="140.30014"
+           transform="matrix(0.84932301,-0.5278735,0.5278735,0.84932301,0,0)" />
+        <rect
+           inkscape:tile-y0="140.30014"
+           inkscape:tile-x0="124.03089"
+           inkscape:tile-h="20"
+           inkscape:tile-w="20"
+           inkscape:tile-cy="150.30014"
+           inkscape:tile-cx="134.03089"
+           y="300.13022"
+           x="95.131882"
+           height="20"
+           width="19.999969"
+           id="elem4"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="elem5"
+           width="19.999969"
+           height="20"
+           x="125.13196"
+           y="300.13022"
+           inkscape:tile-cx="134.03089"
+           inkscape:tile-cy="150.30014"
+           inkscape:tile-w="20"
+           inkscape:tile-h="20"
+           inkscape:tile-x0="124.03089"
+           inkscape:tile-y0="140.30014" />
+        <rect
+           inkscape:tile-y0="140.30014"
+           inkscape:tile-x0="124.03089"
+           inkscape:tile-h="20"
+           inkscape:tile-w="20"
+           inkscape:tile-cy="150.30014"
+           inkscape:tile-cx="134.03089"
+           y="300.13022"
+           x="155.13191"
+           height="20"
+           width="19.999969"
+           id="elem6"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="elem7"
+           width="19.999969"
+           height="20"
+           x="95.131882"
+           y="330.13022"
+           inkscape:tile-cx="134.03089"
+           inkscape:tile-cy="150.30014"
+           inkscape:tile-w="20"
+           inkscape:tile-h="20"
+           inkscape:tile-x0="124.03089"
+           inkscape:tile-y0="140.30014" />
+        <rect
+           inkscape:tile-y0="140.30014"
+           inkscape:tile-x0="124.03089"
+           inkscape:tile-h="20"
+           inkscape:tile-w="20"
+           inkscape:tile-cy="150.30014"
+           inkscape:tile-cx="134.03089"
+           y="330.13022"
+           x="125.13196"
+           height="20"
+           width="19.999969"
+           id="elem8"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="elem9"
+           width="19.999969"
+           height="20"
+           x="155.13191"
+           y="330.13022"
+           inkscape:tile-cx="134.03089"
+           inkscape:tile-cy="150.30014"
+           inkscape:tile-w="20"
+           inkscape:tile-h="20"
+           inkscape:tile-x0="124.03089"
+           inkscape:tile-y0="140.30014" />
+      </g>
+    </g>
+  </g>
+</svg>
