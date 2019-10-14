@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="146.79999mm"
-   height="31.591389mm"
-   viewBox="0 0 520.15744 111.93799"
+   width="288.99557mm"
+   height="62.19191mm"
+   viewBox="0 0 1024.0001 220.36503"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="nestlogo.svg"
-   inkscape:export-filename="/Users/pincy/Documents/Jobs/WPI/nest_logo.png"
+   inkscape:export-filename="/Users/pincy/Documents/NEST/Logo/nestlogo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <title
@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6610356"
-     inkscape:cx="238.10447"
-     inkscape:cy="55.968996"
+     inkscape:zoom="0.38085937"
+     inkscape:cx="546.13334"
+     inkscape:cy="117.52802"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,10 +57,10 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>NEST Lab Logo</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nd/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nd/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -77,46 +77,44 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-69.350454,-248.53311)">
+     transform="translate(-69.350454,-140.10607)">
     <path
        style="fill:#0071a9;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 69.350454,248.53311 0,26.97047 0,57.99705 0,26.97047 30.967366,0 429.17138,0 28.97141,0 0.0799,0 30.96736,0 0,-26.97047 0,-57.99705 c 0,-14.94164 -13.81145,-26.97047 -30.96736,-26.97047 l -29.05125,0 -429.17138,0 -30.967366,0 z"
+       d="m 69.350454,140.10607 v 53.095 114.17503 53.095 h 60.963446 844.88173 57.03417 0.1572 60.9635 v -53.095 -114.17503 c 0,-29.41463 -27.1898,-53.095 -60.9635,-53.095 H 975.19572 130.31398 69.350539 Z"
        id="background"
        inkscape:connector-curvature="0" />
     <g
        id="pictext"
-       transform="translate(-1.4853521e-7,-0.00595534)">
+       transform="matrix(1.9686349,0,0,1.9686349,-67.175269,-349.1766)">
       <g
          transform="matrix(1,0,0,0.9008003,5.1461148,34.561482)"
          id="nesttext">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:80px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="177.14285"
            y="320.93365"
-           id="nestlab"
-           sodipodi:linespacing="125%"><tspan
+           id="nestlab"><tspan
              sodipodi:role="line"
              x="177.14285"
              y="320.93365"
              id="tspan3340"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;line-height:125%;font-family:'Hiragino Maru Gothic Pro';-inkscape-font-specification:'Hiragino Maru Gothic Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">NEST Lab</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:79.99984382px;line-height:125%;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#ffffff;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">NEST Lab</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:51.08353043px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="182.49751"
            y="341.89832"
-           id="nestfull"
-           sodipodi:linespacing="125%"><tspan
+           id="nestfull"><tspan
              sodipodi:role="line"
              id="tspan3346"
              x="182.49751"
              y="341.89832"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.45367241px;line-height:125%;font-family:'Hiragino Maru Gothic Pro';-inkscape-font-specification:'Hiragino Maru Gothic Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Novel Engineering for Swarm Technologies </tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.45388551px;line-height:125%;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#ffffff;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">Novel Engineering for Swarm Technologies </tspan></text>
       </g>
       <g
          transform="translate(-10.038775,-3.7419891)"
-         id="g4438">
+         id="allsquares">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="elem1"
@@ -145,7 +143,7 @@
            style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <rect
            style="fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="elem3"
+           id="elemorange"
            width="20"
            height="20"
            x="-17.622768"
@@ -156,7 +154,7 @@
            inkscape:tile-h="20"
            inkscape:tile-x0="124.03089"
            inkscape:tile-y0="140.30014"
-           transform="matrix(0.84932301,-0.5278735,0.5278735,0.84932301,0,0)" />
+           transform="rotate(-31.861888)" />
         <rect
            inkscape:tile-y0="140.30014"
            inkscape:tile-x0="124.03089"
